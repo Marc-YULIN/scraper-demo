@@ -16,8 +16,6 @@ C# / .NET 10 web scraper demo: crawls a practice site page by page and exports a
 
 ## 執行畫面
 
-<!-- 截圖：docs/images/scraper-console.png（主控台執行畫面）、docs/images/scraper-excel.png（輸出的 Excel） -->
-
 ```text
 開始擷取 https://books.toscrape.com/catalogue/page-1.html
 頁數上限：3｜詳細頁庫存：是｜請求間隔 1 秒
@@ -36,6 +34,8 @@ C# / .NET 10 web scraper demo: crawls a practice site page by page and exports a
 ```
 
 輸出的 `books.xlsx`：
+
+![books.xlsx 書籍清單工作表（前 15 筆）](docs/images/scraper-excel.png)
 
 | 工作表 | 內容 |
 |---|---|
