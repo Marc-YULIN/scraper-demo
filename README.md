@@ -1,6 +1,6 @@
 # scraper-demo：網頁資料擷取 → Excel
 
-![.NET 10](https://img.shields.io/badge/.NET-10-512BD4) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://github.com/Marc-YULIN/scraper-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Marc-YULIN/scraper-demo/actions/workflows/ci.yml) ![.NET 10](https://img.shields.io/badge/.NET-10-512BD4) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 C# / .NET 10 web scraper demo: crawls a practice site page by page and exports a formatted Excel workbook.
 
